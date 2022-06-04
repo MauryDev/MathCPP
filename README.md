@@ -43,6 +43,7 @@ void Test2()
 		std::cout << duration << " ns" << std::endl;
 	}
 }
-```![bandicam 2022-06-04 03-13-36-515](https://user-images.githubusercontent.com/41791247/171987138-0024190a-118d-45d2-8010-3e73084aeb93.jpg)
+```
+![bandicam 2022-06-04 03-13-36-515](https://user-images.githubusercontent.com/41791247/171987138-0024190a-118d-45d2-8010-3e73084aeb93.jpg)
 
 
